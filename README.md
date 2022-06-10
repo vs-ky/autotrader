@@ -1,3 +1,3 @@
 # Autotrader Project Page
 
-Python algorithmic trader bot
+Python algorithmic trader bot.
